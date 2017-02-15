@@ -1,0 +1,35 @@
+ERROR   2017-02-14 11:47:45,500 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 11:47:45,502 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 11:57:59,446 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 11:57:59,449 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:07:00,585 [main] Main  - store created
+ERROR   2017-02-14 12:07:00,614 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:07:00,615 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:07:43,424 [main] Main  - store created
+ERROR   2017-02-14 12:07:43,439 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:07:43,440 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:08:22,629 [main] Main  - store created
+ERROR   2017-02-14 12:08:22,662 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:08:22,662 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:10:18,825 [main] Main  - store created
+ERROR   2017-02-14 12:10:18,843 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:10:18,843 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:10:59,109 [main] Main  - store created
+TRACE   2017-02-14 12:13:24,837 [main] Main  - store created
+TRACE   2017-02-14 12:18:01,450 [main] Main  - store created
+TRACE   2017-02-14 12:21:30,166 [main] Main  - store created
+ERROR   2017-02-14 12:21:32,484 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:21:32,484 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:40:02,889 [main] Main  - store created
+ERROR   2017-02-14 12:40:04,652 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:40:04,652 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:45:25,187 [main] Main  - store created
+ERROR   2017-02-14 12:45:25,202 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:45:25,202 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-14 12:45:53,094 [main] Main  - store created
+TRACE   2017-02-14 12:47:25,891 [main] Main  - store created
+ERROR   2017-02-14 12:47:27,628 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-14 12:47:27,629 [main] data.manager.DataManager  - file not found
+TRACE   2017-02-15 20:31:30,973 [main] Main  - store created
+ERROR   2017-02-15 20:31:36,708 [main] data.manager.DataManager  - file not found
+ERROR   2017-02-15 20:31:36,709 [main] data.manager.DataManager  - file not found
